@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking
+END
+AFHTTPSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFHTTPSessionManager.m
+END
+AFURLResponseSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFURLResponseSerialization.m
+END
+AFNetworkReachabilityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFNetworkReachabilityManager.h
+END
+AFURLSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFURLSessionManager.m
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFNetworking.h
+END
+AFSecurityPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFSecurityPolicy.h
+END
+AFURLRequestSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFURLRequestSerialization.h
+END
+AFNetworkReachabilityManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFNetworkReachabilityManager.m
+END
+AFSecurityPolicy.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFSecurityPolicy.m
+END
+AFHTTPSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFHTTPSessionManager.h
+END
+AFURLRequestSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFURLRequestSerialization.m
+END
+AFURLResponseSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFURLResponseSerialization.h
+END
+AFURLSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ios/!svn/ver/693/xydspace/trunk/xydspace/Vendors/AFNetworking/AFURLSessionManager.h
+END
