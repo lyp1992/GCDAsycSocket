@@ -11,3 +11,9 @@ socket通信
 	如果服务器崩溃，客户端要保持连接服务器，直到连接上服务器为止。
 4.客户端崩溃
 	自动断开socket连接。
+5.程序注销：
+	自动断开socket，然后设置socket的状态为logout。
+6.程序进入后台
+	自动断开socket，然后设置socket的状态为logout，消息走apns
+7.程序进入前台
+	主动去连接服务器，这时如果没有传hosturl，直接return。
